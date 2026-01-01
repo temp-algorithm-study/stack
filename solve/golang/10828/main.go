@@ -21,7 +21,7 @@ func main() {
 
 	stack := []int{}
 
-	for i := 0; i < n; i++ {
+	for range n {
 		scanner.Scan()
 		cmd := strings.Fields(scanner.Text())
 
