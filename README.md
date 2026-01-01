@@ -128,56 +128,56 @@ solved.ac 기준으로 스택 관련 문제를 난이도별로 정리했습니�
 
 ### 입문 단계 (Silver 4)
 
-**[10828번 - 스택](https://solved.ac/problems/10828)** (Silver 4)
+**[10828번 - 스택](https://www.acmicpc.net/problem/10828)** (Silver 4)
 - 스택의 기본 연산(push, pop, size, empty, top)을 직접 구현
 - 스택 자료구조를 처음 공부할 때 가장 좋은 문제
 - 학습 목표: 스택의 기본 동작 원리 이해
 
-**[10773번 - 제로](https://solved.ac/problems/10773)** (Silver 4)
+**[10773번 - 제로](https://www.acmicpc.net/problem/10773)** (Silver 4)
 - 잘못된 수를 외칠 때마다 가장 최근 값을 지우는 문제
 - 학습 목표: push와 pop 연산의 활용
 
-**[28278번 - 스택 2](https://solved.ac/problems/28278)** (Silver 4)
+**[28278번 - 스택 2](https://www.acmicpc.net/problem/28278)** (Silver 4)
 - 10828번의 업그레이드 버전
 - 학습 목표: 스택 구현 최적화
 
 ### 초급 단계 (Silver 4 ~ Silver 2)
 
-**[9012번 - 괄호](https://solved.ac/problems/9012)** (Silver 4)
+**[9012번 - 괄호](https://www.acmicpc.net/problem/9012)** (Silver 4)
 - 괄호 문자열이 올바른지 검사
 - 학습 목표: 스택을 이용한 괄호 매칭
 
-**[4949번 - 균형잡힌 세상](https://solved.ac/problems/4949)** (Silver 4)
+**[4949번 - 균형잡힌 세상](https://www.acmicpc.net/problem/4949)** (Silver 4)
 - 여러 종류의 괄호(소괄호, 대괄호)를 검사
 - 학습 목표: 복잡한 조건에서의 스택 활용
 
-**[12789번 - 도키도키 간식드리미](https://solved.ac/problems/12789)** (Silver 3)
+**[12789번 - 도키도키 간식드리미](https://www.acmicpc.net/problem/12789)** (Silver 3)
 - 스택을 이용한 순서 정렬 문제
 - 학습 목표: 스택을 활용한 순서 제어
 
-**[1935번 - 후위 표기식2](https://solved.ac/problems/1935)** (Silver 3)
+**[1935번 - 후위 표기식2](https://www.acmicpc.net/problem/1935)** (Silver 3)
 - 후위 표기식을 계산하는 문제
 - 학습 목표: 스택을 이용한 수식 계산
 
-**[1874번 - 스택 수열](https://solved.ac/problems/1874)** (Silver 2)
+**[1874번 - 스택 수열](https://www.acmicpc.net/problem/1874)** (Silver 2)
 - 주어진 수열을 스택 연산으로 만들 수 있는지 확인
 - 학습 목표: 스택의 LIFO 특성 완전히 이해하기
 
-**[1406번 - 에디터](https://solved.ac/problems/1406)** (Silver 2)
+**[1406번 - 에디터](https://www.acmicpc.net/problem/1406)** (Silver 2)
 - 스택 2개를 사용하여 커서를 구현
 - 학습 목표: 복수 스택 활용
 
 ### 초중급 단계 (Silver 1 ~ Gold 5)
 
-**[2493번 - 탑](https://solved.ac/problems/2493)** (Gold 5)
+**[2493번 - 탑](https://www.acmicpc.net/problem/2493)** (Gold 5)
 - 왼쪽에서 신호를 받는 탑 찾기
 - 학습 목표: 스택을 활용한 효율적인 탐색
 
-**[2504번 - 괄호의 값](https://solved.ac/problems/2504)** (Gold 5)
+**[2504번 - 괄호의 값](https://www.acmicpc.net/problem/2504)** (Gold 5)
 - 괄호 값을 계산하는 문제
 - 학습 목표: 재귀적 사고와 스택
 
-**[17298번 - 오큰수](https://solved.ac/problems/17298)** (Gold 4)
+**[17298번 - 오큰수](https://www.acmicpc.net/problem/17298)** (Gold 4)
 - 각 원소의 오큰수를 찾는 문제
 - 학습 목표: 스택을 이용한 최적화 기법
 
